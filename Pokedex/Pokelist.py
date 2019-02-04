@@ -31,7 +31,14 @@ pokelist = [{'name': 'Bulbasaur', 'ID': '#001', 'type': ('grass', 'poison'), 'HP
             "weight(kg)": 10},
         {'name': 'Beedrill', 'ID': '#015', 'type': ('bug', 'poison'), 'HP': 65, 'attack': 90, 'defense': 40,
             "weight(kg)": 30},
-
+        {'name': 'Pidgey', 'ID': '#016', 'type': ('normal', 'flying'), 'HP': 40, 'attack': 45, 'defense': 40,
+            "weight(kg)": 2},
+        {'name': 'Pidgeotto', 'ID': '#017', 'type': ('normal', 'flying'), 'HP': 63, 'attack': 60, 'defense': 55,
+            "weight(kg)": 30},
+        {'name': 'Pidgeot', 'ID': '#018', 'type': ('flying', 'normal'), 'HP': 83, 'attack': 80, 'defense': 75,
+            "weight(kg)": 40},
+        {'name': 'Rattata', 'ID': '#019', 'type': 'normal', 'HP': 30, 'attack': 56, 'defense': 35,
+            "weight(kg)": 3.5},
 
 
 
